@@ -14,7 +14,7 @@ Decode is the only purpose-built integrated DIY research platform that combines 
 Flexible, scalable, and completely customizable with over 20+ question types supported seamlessly.​ Simple, intuitive, and real-time interface for results and for capturing responsive survey data.​
 
 **Decode Qual**
-​
+
 Create impact with deeper in-the-moment insights using discussion guides, tags, highlight reels, emotion ai insights, and templates.​
 
 Simple and intuitive interface with notes, moderation, observer rooms, backroom chat, & permission-based screen shares, etc., for individual interviews or focus group discussions. ​
