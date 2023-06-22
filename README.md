@@ -6,17 +6,21 @@ Decode makes it easy to create and conduct Quant & Qual surveys with standard or
 With Decode, you can capture the survey/study responses, video recordings, customer feedback, behavior, and emotion cues.​
 
 **Decode Advantage​**
+
 Decode is the only purpose-built integrated DIY research platform that combines quant, qual, knowledge management, and Emotion AI with industry-leading audiences, making your research Agile, Actionable, Accurate and Automated.​
 
 **Decode Quant​**
+
 Flexible, scalable, and completely customizable with over 20+ question types supported seamlessly.​ Simple, intuitive, and real-time interface for results and for capturing responsive survey data.​
 
-**Decode Qual**​
+**Decode Qual**
+​
 Create impact with deeper in-the-moment insights using discussion guides, tags, highlight reels, emotion ai insights, and templates.​
 
 Simple and intuitive interface with notes, moderation, observer rooms, backroom chat, & permission-based screen shares, etc., for individual interviews or focus group discussions. ​
 
 **Decode Research Repo​**
+
 Store customer research, feedback, reviews, and insights across channels and sources in one place and empower your teams to put customers first. ​
 
 Decode your customer conversations to uncover insights across all touch-points, including user interviews, product feedback, surveys, competitor analysis, focus group discussions and more.​
