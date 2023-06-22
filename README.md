@@ -25,4 +25,4 @@ Help your team capture insights from in-house research reports or third-party re
 
 Organize your studies, interviews, insights, reports, videos, documents, demos and other collaterals in Collections and group it by teams with team-based access controls.​
 
-Derive higher-quality insights, faster, with emotion analytics-backed research. Get started with your [14 days free trial](https://getdecode.io/signup?&__hstc=130087888.19e07ce4e7df0b6512b555092f68babb.1679294507398.1687415004772.1687428018708.139&__hssc=130087888.4.1687428018708&__hsfp=1182805115)https://getdecode.io/signup?&__hstc=130087888.19e07ce4e7df0b6512b555092f68babb.1679294507398.1687415004772.1687428018708.139&__hssc=130087888.4.1687428018708&__hsfp=1182805115).
+Derive higher-quality insights, faster, with emotion analytics-backed research. Get started with your [14 days free trial](https://getdecode.io/signup?&__hstc=130087888.19e07ce4e7df0b6512b555092f68babb.1679294507398.1687415004772.1687428018708.139&__hssc=130087888.4.1687428018708&__hsfp=1182805115)
